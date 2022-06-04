@@ -3,10 +3,9 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Our Services</h2>
+          <h2>Nuesto Servicio </h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Sabemos que tu prioridad es recibir el máximo reembolso de tus taxes. Cuando trabajas con profesionales de taxes en AR Figure, nos encargarán de todo lo necesario relacionado a tus taxes para que tú solamente te encargues de tus cosas.
           </p>
         </div>
         <div className='row'>

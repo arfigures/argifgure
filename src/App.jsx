@@ -31,11 +31,11 @@ const App = () => {
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery}/>
-      <Testimonials data={landingPageData.Testimonials} />
+      
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>
   );
 };
-
+// <Testimonials data={landingPageData.Testimonials} />
 export default App;
