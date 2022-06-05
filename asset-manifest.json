@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/www.arfigures.com/static/css/main.83b5dced.chunk.css",
+    "main.js": "/www.arfigures.com/static/js/main.4782d21e.chunk.js",
+    "main.js.map": "/www.arfigures.com/static/js/main.4782d21e.chunk.js.map",
+    "runtime-main.js": "/www.arfigures.com/static/js/runtime-main.00ae8122.js",
+    "runtime-main.js.map": "/www.arfigures.com/static/js/runtime-main.00ae8122.js.map",
+    "static/js/2.26415609.chunk.js": "/www.arfigures.com/static/js/2.26415609.chunk.js",
+    "static/js/2.26415609.chunk.js.map": "/www.arfigures.com/static/js/2.26415609.chunk.js.map",
+    "index.html": "/www.arfigures.com/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/www.arfigures.com/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.26415609.chunk.js.LICENSE.txt": "/www.arfigures.com/static/js/2.26415609.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00ae8122.js",
+    "static/js/2.26415609.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.4782d21e.chunk.js"
+  ]
+}
